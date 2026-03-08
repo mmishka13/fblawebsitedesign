@@ -407,6 +407,7 @@ function HomeDashboard() {
                 <label className="visually-hidden" htmlFor="ai-message">
                   Message for AI tutor
                 </label>
+                <p>I ame the best</p>
                 <input
                   id="ai-message"
                   className="ai-input"
